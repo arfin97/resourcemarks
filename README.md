@@ -5,12 +5,15 @@ This repository is created for personal use. But if need, anyone can see, follow
 ### Mathmatics
   * Linear Algebra
     1. [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (by 3Blue1Brown)
-    2. [MIT course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (by Prof. Gilbert Strang)
-    3. [Referance book](http://www.deeplearningbook.org/) (2nd Chapter, by Goodfellow)
+    2. [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+    3. [MIT course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (by Prof. Gilbert Strang)
+    4. [Referance book](http://www.deeplearningbook.org/) (2nd Chapter, by Goodfellow)
   * Calculus 
     1. [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (by 3Blue1Brown)
-    2. [Lectures](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (first 5 videos, by Khan Academy)
+    2. [Khan Academy](https://www.khanacademy.org/math/calculus-home)
+    3. [Lectures](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (first 5 videos, by Khan Academy)
   * Probability & Statistics
+    1. [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
     1. [Referance book](http://www.deeplearningbook.org/) (3rd Chapter, by Goodfellow)
     2. And basic theories by web search
 ### Theory
